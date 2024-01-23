@@ -1,0 +1,69 @@
+/* START TENTANGKAMI */
+
+@import url("https://fonts.googleapis.com/css?family=Comic+Neue:700,400|Inter:500,700,600,400|Roboto:400,700,600");
+
+.container {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    z-index: 1;
+}
+
+.container-tentangkami {
+    display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 250px; /* Anda dapat menyesuaikan tinggi container sesuai kebutuhan */
+        text-align: center;
+}
+.description {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    z-index: 1;
+}
+
+.content-text2 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.all-logo {
+    justify-content: center;
+    display: flex 
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
+@font-face {
+    font-family: "BlogScript";
+    src: url('../fonts/BlogScriptW00Regular.ttf');
+  }
+  
+  h4-font {
+    font-family: "BlogScript", sans-serif;
+  }
+
+  .container{
+    display: flex;
+    padding: 50px 30px;
+}
+
+
+
+
+/* END TENTANG KAMI */
+
+

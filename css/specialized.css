@@ -1,0 +1,224 @@
+.header-specialized { 
+    font-family: comic neue; 
+    color: #0F5AA2;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;
+    margin-bottom: 42px;
+}
+
+.banner-specialized {
+    position: relative;
+    margin-top: 42px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.banner-specialized img {
+    width: 100%;
+    height: auto;
+}
+
+.content-1 {
+    margin-top: 40px;
+    justify-content: center;
+    display: flex 
+}
+.content-2 {
+    margin-top: 100px;
+    justify-content: center;
+    display: flex 
+}
+
+.btn-special {
+    margin-top: 50px;
+    background-color: #BF001E;
+    width: 300px;
+    height: 50px;
+    /* padding: 20px; */
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    text-transform:uppercase;
+    color: aliceblue;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: comic neue;
+}
+
+.btn-sgmeksplor {
+    margin-top: 50px;
+    background-color: #BF001E;
+    width: 300px;
+    height: 50px;
+    /* padding: 20px; */
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    text-transform:uppercase;
+    color: aliceblue;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: comic neue;
+}
+
+.btn-sgmbunda {
+    margin-top: 50px;
+    background-color: #BF001E;
+    width: 300px;
+    height: 50px;
+    /* padding: 20px; */
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    text-transform:uppercase;
+    color: aliceblue;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: comic neue;   
+}
+
+.btn-sgmfamily {
+    margin-top: 50px;
+    background-color: #BF001E;
+    width: 300px;
+    height: 50px;
+    /* padding: 20px; */
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    text-transform:uppercase;
+    color: aliceblue;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: comic neue;
+}
+
+.btn-nutrilonroyal {
+    margin-top: 50px;
+    background-color: #0F5AA2;
+    width: 300px;
+    height: 50px;
+    /* padding: 20px; */
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    text-transform:uppercase;
+    color: aliceblue;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: comic neue;
+}
+
+.btn-bebelac {
+    margin-top: 50px;
+    background-color: #0F5AA2;
+    width: 300px;
+    height: 50px;
+    /* padding: 20px; */
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    text-transform:uppercase;
+    color: aliceblue;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: comic neue;
+}
+
+.text-content-1 {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    margin-top: 50px; 
+    width: 100%; 
+    padding-right: 30px; 
+    padding-left: 30px;
+}
+.text-content-2 {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    margin-top: 50px; 
+    width: 100%; 
+    padding-right: 340px; 
+    padding-left: 340px;
+}
+
+.row-sgmax {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+    position: relative;
+}
+
+.row-sgmbunda {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+    position: relative;
+}
+
+.row-sgmsoya {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+    position: relative;
+}
+
+.row-sgmoptigrow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+    position: relative;
+}
+
+.row-nutrilonroyal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+    position: relative;
+}
+
+.row-bebelac {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+    position: relative;
+}
+
+.row-bebelac-gold {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+    position: relative;
+}

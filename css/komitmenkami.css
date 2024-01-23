@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=PT+Sans:wght@700&family=Roboto:wght@700&display=swap');
+
+
+html, body, form {
+    margin: 2;
+    padding: 0;
+}
+body {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "comic neue", sans-serif;
+}
+P {
+    font-family: "Roboto", sans-serif;
+}
+
+span{
+    font-family: "comic neue", sans-serif;
+}
+
+
+a, a:hover{
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 20px;
+    box-shadow: 0 1px 0px 0 rgb(201, 197, 197);
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+
+/* .navbar li{
+    display: inline-block;
+    margin: 10px 20px;
+    
+} */
+
+.navbar a{
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+
+.navbar .logo{
+    margin-left: 20px;
+    flex: 1;
+}
+.navbar .logo img{
+    width: 30%;
+}
+.navbar .logo a{
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+}
+
+.menu{
+    display:flex;
+    align-items: center;
+    list-style: none;
+    margin-right: 20px;
+}
+.menu a:-webkit-any-link{
+color: #0F5AA2;
+}
+
+.menu li{
+    padding: 5px 10px;
+    margin: 10px;
+}
+
+.toggle{
+    font-size: 30px;
+    display: none;
+}
+
+.search{
+    font-size: 30px;
+    align-items: center;
+    margin-right: 100px;
+    font-weight: bold;
+}
+
+
+.search a{
+    color: #0F5AA2;
+}

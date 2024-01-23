@@ -1,0 +1,46 @@
+
+html, body, form {
+    margin: 2;
+    padding: 0;
+}
+body {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "comic neue", sans-serif;
+}
+P {
+    font-family: "Roboto", sans-serif;
+}
+
+.kt-text-color {
+    color: #0f5aa2;
+  }
+  
+
+.kontak {
+
+    .header {
+        margin-bottom: 20px;
+    }
+
+    .header-title {
+        font-size: 24px;
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    .kontak-background {
+        margin-top: 42px;
+        width: 100%;
+        overflow: hidden;
+    }
+    
+    .kontak-background img {
+        width: 100%;
+        height: auto;
+    }
+}

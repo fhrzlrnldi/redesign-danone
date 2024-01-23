@@ -1,0 +1,125 @@
+
+
+html, body, form {
+    margin: 2;
+    padding: 0;
+}
+body {
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+/* body {
+    background-color: #ffffff;
+    background-image: url('images/background.png');
+    background-repeat: repeat-y;
+	background-size: 100%;
+	background-position:top center;
+} */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "comic neue", sans-serif;
+}
+P {
+    font-family: "Roboto", sans-serif;
+}
+
+
+
+/* SELAMAT DATANG /
+/* Header */
+.page-content h1{
+    margin: 1rem 0 3rem 0;
+}
+
+.has-text-align-center {
+    text-align: center;
+  }
+  
+  .has-text-color {
+    color: #0f5aa2;
+  }
+  
+  .page-title-top {
+    font-size: 2rem;
+  }
+  
+  .page-title-bottom {
+    font-size: 3rem;
+  }
+  
+  .page-content h2 {
+    font-size: 2.5rem;
+    padding: 4rem 0 1rem 0;
+}
+
+.page-content p {
+    font-size: 1.125rem;
+    margin-bottom: 1.8rem;
+    margin-top: 10px;
+}
+.page-content p.ca-message {
+    font-size: 1.6rem;
+}
+/*  /
+
+
+/* Banner Background */
+
+.banner-background {
+    margin-top: 42px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.banner-background img {
+    width: 100%;
+    height: auto;
+}
+
+/*/
+
+
+/*/
+.container-sd {
+    max-width: 1500px; /* Lebar maksimum container */
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px; /* Jarak kiri container */
+    padding-right: 20px; /* Jarak kanan container */
+    /* display: flex; */
+    /* justify-content: center; */
+    align-items: center;
+  }
+  
+  .content {
+    /* text-align: center; */
+  }
+
+  .row-sd{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+    position: relative;
+}
+.row .col1{
+    padding: 20px;
+}
+.col-sd {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  
+  .col img {
+    max-width: 100%; /* Gambar mengikuti lebar kolom */
+    height: 80px;
+  }
+
+  
+  
+  
+
+ 
